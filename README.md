@@ -11,4 +11,5 @@ and one.
 ## Files
  * quest.prg - Runnable PET BASIC version
  * quest.bas - ASCIIified version of PET BASIC program
+ * quest-byte1979.bas - Original listing from article
 
